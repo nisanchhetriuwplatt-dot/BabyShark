@@ -36,6 +36,5 @@ def main():
     shark_verse("Mommy")
     shark_verse("Daddy")
 
-
 if __name__ == "__main__":
     main()
